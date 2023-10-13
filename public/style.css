@@ -1,9 +1,10 @@
-*,html{
-   padding: 0;
-   margin: 0;
-   list-style: none;
-   text-decoration: none;
-   font-family: 'Segoe UI', sans-serif;
+*,
+html {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: "Segoe UI", sans-serif;
 }
 
 .navbar-brand {
@@ -17,73 +18,105 @@
 
 .nav-item a {
     font-weight: 600;
-color: white;
+    color: white;
 }
 .nav-item a:hover {
-  color: red;
+    color: red;
 }
-.btn{
+.btn {
     border: 1px solid red;
     color: red;
 }
-.btn:hover{
+.btn:hover {
     border: 1px solid red;
     background-color: red;
     color: white;
 }
-.card{
-    margin-top: 20px;
-    /* width: 700px; */
-}
-.card-info{
+
+.card-info {
     display: flex;
     width: 2000px;
     height: 375px;
 }
-.img-info{
+.img-info {
     display: flex;
 }
-.carousel-item{
+.carousel-item {
     margin-top: 20px;
     background-color: #c5c5c5;
 }
-.card h5{
-    margin-top: 240px;
-    width: 550px;
-    font-size: 17px; 
-    background-color: black; 
-    opacity: 0.7;
-    color: white;
-    /* filter: blur(1px); */
-    padding: 20px;
+
+.box {
+    width: 341px;
+    height: 183px;
+    margin-top: 1%;
+    margin-right: 5%;
 }
-.buyers{
+
+.box .apani {
+    width: 443px;
+    height: 283px;
+    top: 0;
+    left: 110;
+}
+
+.box .overlap {
+    position: relative;
+    width: 441px;
+    height: 283px;
+    background-image: url(img/foto2.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.box .backnya {
+    position: absolute;
+    width: 341px;
+    height: 35px;
+    top: 248px;
+    left: 0;
+    background-color: #0000009e;
+    filter: blur(4px);
+}
+
+.box .text-wrapper {
+    position: absolute;
+    top: 254px;
+    left: 28px;
+    font-family: "Koulen-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.buyers {
     padding: 5px;
     width: 785px;
-    margin:20px 0px 20px 10px;
+    margin: 20px 0px 20px 10px;
     border: 1px solid rgb(214, 214, 214);
     background-color: rgb(214, 214, 214);
 }
-.buyers h1{
+.buyers h1 {
     font-size: 25px;
-    font-family: 'segou UI', sans-serif;
+    font-family: "segou UI", sans-serif;
     font-weight: 600;
 }
-.buyers p{
+.buyers p {
     font-size: 15px;
-    font-family: 'segou UI', sans-serif;
+    font-family: "segou UI", sans-serif;
     font-weight: 600;
 }
-.adver h3{
+.adver h3 {
     font-size: 20px;
     font-weight: 600;
-    font-family: 'segou UI', sans-serif;
+    font-family: "segou UI", sans-serif;
     text-align: center;
 }
-.adver h4{
+.adver h4 {
     margin: 0px 20px 0px 30px;
     border: 1px solid rgb(214, 214, 214);
     background-color: rgb(214, 214, 214);
     height: 100px;
 }
-

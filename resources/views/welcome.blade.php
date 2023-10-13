@@ -63,12 +63,16 @@
       </nav>
       <div class="container-md">
         <div class="card-info">
-          <div class="anu">
-            <div class="card">
-              <img src="img/foto2.jpg" style="width: 550px; height: 300px; z-index: 0;" class="" alt="...">
-              <h5 class="" style="position: absolute; z-index: 2;">THE BEST PHONE TO BUY IN 2023 ~ OUR TOP NO LIST ~ SPEK.ID</h5>
+
+          <div class="box">
+            <div class="apani">
+              <div class="overlap">
+                <div class="backnya"></div>
+                <p class="text-wrapper">The Best Phones to buy in 2023 - our top 10 list - SPEK.ID</p>
+              </div>
             </div>
-          </div>       
+          </div>
+                
           <div class="buyers-adver">
             <div class="buyers">
               <h1>BUYER'S GUIDE</h1>
