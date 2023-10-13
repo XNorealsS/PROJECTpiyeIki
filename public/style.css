@@ -31,3 +31,59 @@ color: white;
     background-color: red;
     color: white;
 }
+.card{
+    margin-top: 20px;
+    /* width: 700px; */
+}
+.card-info{
+    display: flex;
+    width: 2000px;
+    height: 375px;
+}
+.img-info{
+    display: flex;
+}
+.carousel-item{
+    margin-top: 20px;
+    background-color: #c5c5c5;
+}
+.card h5{
+    margin-top: 240px;
+    width: 550px;
+    font-size: 17px; 
+    background-color: black; 
+    opacity: 0.7;
+    color: white;
+    /* filter: blur(1px); */
+    padding: 20px;
+}
+.buyers{
+    padding: 5px;
+    width: 785px;
+    margin:20px 0px 20px 10px;
+    border: 1px solid rgb(214, 214, 214);
+    background-color: rgb(214, 214, 214);
+}
+.buyers h1{
+    font-size: 25px;
+    font-family: 'segou UI', sans-serif;
+    font-weight: 600;
+}
+.buyers p{
+    font-size: 15px;
+    font-family: 'segou UI', sans-serif;
+    font-weight: 600;
+}
+.adver h3{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'segou UI', sans-serif;
+    text-align: center;
+}
+.adver h4{
+    margin: 0px 20px 0px 30px;
+    border: 1px solid rgb(214, 214, 214);
+    background-color: rgb(214, 214, 214);
+    height: 100px;
+}
+

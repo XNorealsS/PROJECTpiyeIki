@@ -20,7 +20,7 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link" aria-current="page" href="#">HOME</a>
+                <a class="nav-link" aria-current="page" href="/">HOME</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" aria-current="page" href="#">NEWS</a>
@@ -61,7 +61,82 @@
           </div>
         </div>
       </nav>
+      <div class="container-md">
+        <div class="card-info">
+          <div class="anu">
+            <div class="card">
+              <img src="img/foto2.jpg" style="width: 550px; height: 300px; z-index: 0;" class="" alt="...">
+              <h5 class="" style="position: absolute; z-index: 2;">THE BEST PHONE TO BUY IN 2023 ~ OUR TOP NO LIST ~ SPEK.ID</h5>
+            </div>
+          </div>       
+          <div class="buyers-adver">
+            <div class="buyers">
+              <h1>BUYER'S GUIDE</h1>
+              <P>SEE OUR LIST OF THE BEST PHONES TO GET RIGHT NOW</P>
+            </div>
+            <div class="adver">
+              <h3>ADVERTISEMENTS</h3>
+              <H4></H4>
+            </div>
+          </div>
+        </div>
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
-</body>
-</html>
+        <div id="carouselExample" class="carousel slide">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="img/Apple.jpeg" style="width: 120px;border-radius: 15px; margin:20px 10px 20px 180px" alt="">
+              <img src="img/Asus.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
+              <img src="img/Oppo.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
+              <img src="img/Realme.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
+              <img src="img/Vivo.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
+              <img src="img/Xiomi.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
+              <img src="img/Huawei.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
+              <img src="img/Infinix.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
+            </div>
+            <div class="carousel-item">
+              <img src="img/Apple.jpeg" style="width: 120px;border-radius: 15px; margin:20px 10px 20px 180px" alt="">
+              <img src="img/Asus.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
+              <img src="img/Oppo.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
+              <img src="img/Realme.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
+              <img src="img/Vivo.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
+              <img src="img/Xiomi.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
+              <img src="img/Huawei.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
+              <img src="img/Infinix.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
+            </div>
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+        </div>
+      </div>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    </body>
+    </html>
+    {{-- <div class="brand">
+      <div class="brand-hp">
+      </div>
+    </div> --}}
+    {{-- <div class="card-info">
+      <div class="card" style="width: 20rem;">
+        <img src="img/foto1.jpeg" class="card-img-top" alt="...">
+        <div class="card-body">
+          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto quaerat deleniti aperiam eveniet est quae voluptate ipsum aliquam.</p>
+        </div>
+      </div>
+      <div class="img-info">
+        <img src="img/foto1.jpeg" style="width: 250px; margin: 20px 0px 5px 5px" class="card-img-top" alt="...">
+        <img src="img/foto1.jpeg" style="width: 250px; margin: 0px 0px 0px 5px" class="card-img-top" alt="...">
+      </div>
+      <img src="img/foto1.jpeg" style="width: 400px; margin: 20px 0px 0px 5px" class="card-img-top" alt="...">
+      <div class="card" style="width: 20rem; margin:20px 0px 0px 5px">
+        <img src="img/foto1.jpeg" class="card-img-top" alt="...">
+        <div class="card-body">
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        </div>
+      </div>
+    </div> --}}
