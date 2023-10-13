@@ -7,6 +7,7 @@
     <title>Spek.id - Device Specification Detail</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="img/icon.jpg">
 </head>
 <body>
     
@@ -30,20 +31,32 @@
               
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                  Dropdown
+                  HANDPHONE
                 </a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="#">Action</a></li>
-                  <li><a class="dropdown-item" href="#">Another action</a></li>
-                  <li><hr class="dropdown-divider"></li>
-                  <li><a class="dropdown-item" href="#">Something else here</a></li>
+                  <li><a class="dropdown-item" href="#">iPhone</a></li>
+                  <li><a class="dropdown-item" href="#">Samsung</a></li>
+                  <li><a class="dropdown-item" href="#">Realme</a></li>
+                  <li><a class="dropdown-item" href="#">Infinix</a></li>
+                  <li><a class="dropdown-item" href="#">Xiaomi</a></li>
+                  <li><a class="dropdown-item" href="#">Oppo</a></li>
+                  <li><a class="dropdown-item" href="#">Vivo</a></li>
+                  <li><a class="dropdown-item" href="#">Huawei</a></li>
+                  <li><a class="dropdown-item" href="#">Meizu</a></li>
+                  <li><a class="dropdown-item" href="#">OnePlus</a></li>
+                  <li><a class="dropdown-item" href="#">Asus</a></li>
                 </ul>
               </li>
-        
+              <li class="nav-item">
+                <a class="nav-link" aria-current="page" href="#">ABOUT</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" aria-current="page" href="#">CONTACT</a>
+              </li>
             </ul>
             <form class="d-flex" role="search">
               <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-              <button class="btn btn-outline-success" type="submit">Search</button>
+              <button class="btn btn-outline" type="submit">Search</button>
             </form>
           </div>
         </div>
