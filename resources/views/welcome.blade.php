@@ -23,7 +23,7 @@
                 <a class="nav-link" aria-current="page" href="/">HOME</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" aria-current="page" href="#">NEWS</a>
+                <a class="nav-link" aria-current="page" href="news">NEWS</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" aria-current="page" href="#">REVIEWS</a>
@@ -42,7 +42,7 @@
                   <li><a class="dropdown-item" href="#">Oppo</a></li>
                   <li><a class="dropdown-item" href="#">Vivo</a></li>
                   <li><a class="dropdown-item" href="#">Huawei</a></li>
-                  <li><a class="dropdown-item" href="#">Meizu</a></li>
+                  <li><a class="dropdown-item" href="#">Nokia</a></li>
                   <li><a class="dropdown-item" href="#">OnePlus</a></li>
                   <li><a class="dropdown-item" href="#">Asus</a></li>
                 </ul>
@@ -88,23 +88,23 @@
         <div id="carouselExample" class="carousel slide">
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="img/Apple.jpeg" style="width: 120px;border-radius: 15px; margin:20px 10px 20px 180px" alt="">
-              <img src="img/Asus.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
-              <img src="img/Oppo.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
-              <img src="img/Realme.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
+              <img src="img/Apple.png" style="width: 120px;border-radius: 15px; margin:20px 10px 20px 100px" alt="">
+              <img src="img/Asus.png" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
+              <img src="img/Oppo.png" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
+              <img src="img/Realme.png" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
               <img src="img/Vivo.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
               <img src="img/Xiomi.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
-              <img src="img/Huawei.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
+              <img src="img/Huawei.png" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
               <img src="img/Infinix.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
             </div>
             <div class="carousel-item">
-              <img src="img/Apple.jpeg" style="width: 120px;border-radius: 15px; margin:20px 10px 20px 180px" alt="">
-              <img src="img/Asus.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
-              <img src="img/Oppo.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
-              <img src="img/Realme.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
+              <img src="img/Apple.png" style="width: 120px;border-radius: 15px; margin:20px 10px 20px 100px" alt="">
+              <img src="img/Asus.png" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
+              <img src="img/Oppo.png" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
+              <img src="img/Realme.png" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
               <img src="img/Vivo.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
               <img src="img/Xiomi.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
-              <img src="img/Huawei.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
+              <img src="img/Huawei.png" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
               <img src="img/Infinix.jpeg" style="width: 120px; border-radius: 15px; margin:20px 10px 20px 0px" alt="">
             </div>
           </div>

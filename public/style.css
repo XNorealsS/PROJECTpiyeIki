@@ -6,7 +6,10 @@ html {
     text-decoration: none;
     font-family: "Segoe UI", sans-serif;
 }
+.container-md{
+    max-width: 1200px;
 
+}
 .navbar-brand {
     font-size: 25px;
 }
@@ -35,7 +38,8 @@ html {
 
 .card-info {
     display: flex;
-    width: 2000px;
+    /* width: 1500px; */
+    /* max-width: 1300px; */
     height: 375px;
 }
 .img-info {
@@ -49,7 +53,7 @@ html {
 .box {
     width: 341px;
     height: 183px;
-    margin-top: 1%;
+    margin-top: 1.5%;
     margin-right: 5%;
 }
 
@@ -62,7 +66,7 @@ html {
 
 .box .overlap {
     position: relative;
-    width: 441px;
+    width: 400px;
     height: 283px;
     background-image: url(img/foto2.jpg);
     background-size: cover;
@@ -97,6 +101,7 @@ html {
     margin: 20px 0px 20px 10px;
     border: 1px solid rgb(214, 214, 214);
     background-color: rgb(214, 214, 214);
+    border-radius: 5px;
 }
 .buyers h1 {
     font-size: 25px;
@@ -119,4 +124,5 @@ html {
     border: 1px solid rgb(214, 214, 214);
     background-color: rgb(214, 214, 214);
     height: 100px;
+    border-radius: 5px;
 }
